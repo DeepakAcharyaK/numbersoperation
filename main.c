@@ -1,3 +1,5 @@
+//program to perform the operation on two numbers.
+
 #include <stdio.h>
 
 int main(void) {
